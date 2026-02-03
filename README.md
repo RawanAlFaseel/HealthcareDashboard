@@ -10,3 +10,10 @@ The dataset is open and available from the (Data with Decision) YouTube channel.
 
 You can view the live version of the dashboard here:
 [https://app.powerbi.com/groups/me/reports/6d4a1321-2a95-43dd-afc9-9617252bea5d?pbi_source=desktop]
+
+# 📥 To download the file:
+Click the file name on the left (UdacityProjects.zip)
+
+Then click "View raw" in the middle of the page
+
+The download will begin automatically
